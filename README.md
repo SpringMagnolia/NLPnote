@@ -1,6 +1,9 @@
 ## NLP Note
 
-##### content list
+#### 介绍
+内容主要讲解神经网络和pytorch，同时在最后完成了一个类似智能客服的聊天机器人项目
+
+#### content list
 
 ```text
 - 神经网络和pytorch
