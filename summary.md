@@ -48,6 +48,9 @@
 
 * 补充
 
-   * [HMM](./补充/HMM、MEMM、CRF.md)
+   * [HMM](./补充/HMM.md)
+   * [MEMM和CRF](./补充/MEMM和CRF.md)
+   * [最大匹配法](./补充/最大匹配法.md)
 
    
+
